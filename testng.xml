@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="PA.Globalpage.Testcases.ArticleGPTest"/>
+      <class name="PA.Globalpage.Testcases.Homepagetest"/>
+      <class name="Popuptestcases.NewsletterTest"/>
+      <class name="Popuptestcases.Signuptest"/>
+      <class name="PA.Globalpage.Testcases.VideosGPTest"/>
+      <class name="PA.Globalpage.Testcases.UpcomingconferenceGPTest"/>
+      <class name="PA.Globalpage.Testcases.InfographicGPTest"/>
+      <class name="PA.Globalpage.Testcases.WhitepapersGPTest"/>
+      <class name="PA.Globalpage.Testcases.Articlespagetest1"/>
+      <class name="PA.Globalpage.Testcases.FeacturenewsGPTest"/>
+      <class name="Popuptestcases.Memberlogintest"/>
+      <class name="PA.Globalpage.Testcases.WebinarsGPTest"/>
+      <class name="PA.Globalpage.Testcases.TrendingnewsGPTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
